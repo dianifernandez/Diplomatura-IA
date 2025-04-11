@@ -1,4 +1,4 @@
-ID_Paciente;Edad;MMSE;MoCA;Volumen_Hipocampo;Años_Diagnostico;Nivel_Actividad_Fisica;Indice_Masa_Corporal;Porcentaje
+ID_Paciente;Edad;MMSE;MoCA;Volumen_Hipocampo;AÃ±os_Diagnostico;Nivel_Actividad_Fisica;Indice_Masa_Corporal;Porcentaje
 ;72;29;27;5.2;3;Alto;24.5;12
 2;68;30;28;5.4;2;Medio;22.3;10
 3;65;28;26;5.0;1;Bajo;23.7;11
